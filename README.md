@@ -1,4 +1,4 @@
-# Oneflow - FrontEnd Assignment
+# FrontEnd Assignment
 
 Create a web-application using React as presented below.
 
@@ -9,6 +9,7 @@ You can use this boilerplate as the starting point of your project. All of your 
 **Register everything** including your tests/spikes, ideas if you had more time (explain how would you solve things), decisions you've made (and why), the architecture you chose. Add a `COMMENTS.md` or a `HISTORY.md` to show us your thoughts and ideas.
 
 ## The assignment
+
 ![](https://api.chucknorris.io/img/chucknorris_logo_coloured_small.png)
 
 The applicant should design and implement a minimalistic web-application that would let the user browse, search and navigate through [Chuck Norris jokes](https://api.chucknorris.io/) and works within a standard modern web-browser.
